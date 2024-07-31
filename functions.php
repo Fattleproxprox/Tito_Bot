@@ -1,6 +1,6 @@
 <?php
 #Empieza La Creacion De Funciones
-$link = mysqli_connect("sql3.freemysqlhosting.net", "sql3490732", "2RWi2ZWNLh", "sql3490732");
+$link = mysqli_connect("sql3.freemysqlhosting.net", "sql3490732", "2RWi2ZWNLh", "sql3490732","u241258339_fattle");
 
 function sendMessage($chatId, $message, $message_id)
 {
